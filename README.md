@@ -1,7 +1,7 @@
-#####About
-This is our implementation for the **silver** winning DApp software. The official rebo is [here](https://github.com/Azad-Hall).
+#####   About
+This is our implementation for the **silver** winning DApp software. The official repo is [here](https://github.com/Azad-Hall).
 
-#####Build and run
+#####   Build and run
 Open `testrpc` in one terminal
 Open `ipfs daemon` in other
 Then run `embark run` in the ethpic directory
